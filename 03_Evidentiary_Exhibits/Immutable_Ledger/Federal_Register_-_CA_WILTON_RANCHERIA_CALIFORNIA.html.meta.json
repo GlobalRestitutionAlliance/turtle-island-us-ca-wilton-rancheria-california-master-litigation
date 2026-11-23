@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+WILTON+RANCHERIA+CALIFORNIA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+WILTON+RANCHERIA+CALIFORNIA",
+  "title": "Federal Register - CA WILTON RANCHERIA CALIFORNIA",
+  "fetched_at": "2026-11-23T18:03:39.318514Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 311251,
+  "sha256": "d103d4beb016a379d11af9b83d10ad3ce9bc469d0943cfc7bb26ebca25d6e544",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
